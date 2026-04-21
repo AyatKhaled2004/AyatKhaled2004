@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Ayat%20Khaled&fontSize=34&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=150&section=header&text=Ayat%20Khaled&fontSize=36&fontColor=ffffff&fontAlignY=52" />
 </p>
 
 <!-- ANIMATED TYPING (IMPROVED COLORS) -->
