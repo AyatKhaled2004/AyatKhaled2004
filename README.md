@@ -109,7 +109,7 @@ To secure a challenging internship in <strong>Artificial Intelligence</strong> o
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyatKhaled2004&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AyatKhaled2004&show_icons=true/>
 </p>
 
 <p align="center">
