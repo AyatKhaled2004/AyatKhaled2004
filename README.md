@@ -1,41 +1,86 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2>Hey 👋, I'm <a href="#">Ayat Khaled</a></h2>
+
+<p>
+I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>.  
+I specialize in building intelligent systems and interactive web applications, combining <strong>Machine Learning</strong> with modern <strong>Front-End technologies</strong>.
+</p>
+
+<p>
+🎯 Currently seeking <strong>internships and training opportunities</strong> in AI, Machine Learning, or Software Engineering.
+</p>
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+<h2>⚡️ A Few Quick Facts</h2>
+
+<ul>
+<li>🎓 Computer Science Student - Faculty of Computers & Information, Zagazig University</li>
+<li>🤖 Studied <strong>Machine Learning, Deep Learning, and Computer Vision</strong></li>
+<li>💻 Skilled in <strong>C++, Python, and JavaScript</strong></li>
+<li>🌐 Front-End Developer using <strong>React.js</strong></li>
+<li>📊 Experienced in <strong>Data Analysis, Data Preprocessing, and Model Evaluation</strong></li>
+<li>🧠 Built AI models for solving real-world problems</li>
+<li>🔍 Interested in <strong>AI in Healthcare</strong> and intelligent systems</li>
+<li>🚀 Actively learning and improving problem-solving skills</li>
+<li>💬 Ask me about <strong>AI, Front-End, or Data Science</strong></li>
+</ul>
+
+<h2>🚀 Technical Skills</h2>
+
+<ul>
+<li><strong>Programming Languages:</strong> C++, Python, JavaScript</li>
+<li><strong>Front-End:</strong> HTML, CSS, JavaScript, React.js</li>
+<li><strong>AI & ML:</strong> Machine Learning, Deep Learning, Computer Vision</li>
+<li><strong>Libraries & Tools:</strong> NumPy, Pandas, Scikit-learn, TensorFlow</li>
+<li><strong>Concepts:</strong> Data Structures, Algorithms, OOP, Problem Solving</li>
+<li><strong>Tools:</strong> Git, GitHub, Postman</li>
+</ul>
+
+<h2>📊 Projects</h2>
+
+<ul>
+<li>🧠 <strong>Sleep Disorder Prediction Model</strong>  
+Built a Machine Learning model to predict sleep disorders using data preprocessing, feature engineering, and classification algorithms.</li>
+
+<li>📈 <strong>Data Analysis Project</strong>  
+Performed data cleaning, visualization, and insights extraction using Python libraries.</li>
+
+<li>🌐 <strong>Front-End Web Applications</strong>  
+Developed responsive web interfaces using React.js and modern UI practices.</li>
+</ul>
+
+<h2>🎯 Career Objective</h2>
+
+<p>
+To secure a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong>, where I can apply my technical skills, gain real-world experience, and contribute to impactful projects.
+</p>
+
+<h2>🚀 Some Tools I Use</h2>
+
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="25"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>
+</p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2>📈 GitHub Stats</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"/>
+</p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+</p>
