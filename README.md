@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Ayat Khaled</h2>
-<p>I'm an <strong>AI Engineer</strong> dedicated to building intelligent systems. My expertise spans across <strong>Computer Vision</strong>, <strong>Deep Learning</strong>, and <strong>Machine Learning</strong>, with a growing focus on <strong>NLP</strong>.</p>
+<p>I'm an <strong>AI Engineer</strong> specializing in building predictive systems and intelligent architectures. My expertise spans <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, with a strong foundation in <strong>NLP</strong>.</p>
 
 <p>
   <a href="mailto:ayatkhaled32721@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
@@ -14,19 +14,19 @@
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
-  <li>🔭 <strong>Current Project:</strong> Automated Geospatial analysis and early warning systems using Sentinel-2.</li>
-  <li>🧠 <strong>AI Expertise:</strong> Robust experience in <strong>ML, DL, and CV</strong> (Segmentation & Predictive Modeling).</li>
-  <li>📚 <strong>Learning Path:</strong> Currently deep-diving into <strong>Natural Language Processing (NLP)</strong>.</li>
-  <li>💻 <strong>Multi-Language:</strong> Proficient in <strong>Python</strong>, <strong>C++</strong>, and <strong>React</strong> for full-scale AI integration.</li>
+  <li>🔭 <strong>Current Focus:</strong> Developing automated land analysis and early warning systems using Geospatial AI.</li>
+  <li>🧐 <strong>Expertise:</strong> Predictive Modeling, Semantic Segmentation, and End-to-End AI Integration.</li>
+  <li>📚 <strong>Learning:</strong> Deepening my knowledge in <strong>Natural Language Processing (NLP)</strong>.</li>
+  <li>💬 <strong>Talk to me about:</strong> Machine Learning pipelines, Python, C++, and React integration.</li>
 </ul>
 
 <h2>🚀 Technical Arsenal</h2>
 
 ### 🤖 Artificial Intelligence
 <p align="left">
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="CV" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="DL" />
   <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat&logo=python&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="DL" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="CV" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
@@ -41,17 +41,18 @@
 
 ---
 
-<h2>🛠️ Key Projects Portfolio</h2>
+<h2>🛠️ Featured Projects</h2>
 
-### 🛰️ Geospatial & Computer Vision
-* **Satellite Change Detection:** End-to-end pipeline for land analysis using U-Net and Rasterio.
-* **MRI Brain Tumor Segmentation:** High-precision medical imaging segmentation.
+### 📊 Predictive Analytics & ML
+* **Customer Churn Prediction:** Analyzing user behavior to predict and mitigate customer turnover.
+* **Wine Quality Assessment:** Classification model using chemical properties to determine quality.
+* **Car Price Forecasting:** Advanced regression models for automotive market value estimation.
+* **Real Estate Price Prediction:** Intelligent system for house price forecasting.
+* **Sleep Disorder Prediction:** Diagnostic ML model for health pattern recognition.
 
-### 📊 Machine Learning & Predictive Analytics
-* **Sleep Disorder Prediction:** Diagnostic ML model to identify sleep patterns and disorders.
-* **Car Price Forecasting:** Advanced regression model to predict automotive market values.
-* **Wine Quality Analysis:** Classification and quality assessment using chemical properties.
-* **Real Estate Prediction:** Predictive analytics system for housing market trends.
+### 🛰️ Geospatial & Vision
+* **Satellite Change Detection:** Automated land analysis pipeline using Sentinel-2 and U-Net.
+* **NDVI Analysis:** Vegetation health monitoring using Remote Sensing data.
 
 <br/>
 
