@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ayat%20Khaled&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- TYPING INTRO -->
+<!-- ANIMATED TYPING (IMPROVED COLORS) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Always+Learning+New+Things&center=true&width=520&height=55&color=F7971E,FFD200,00C9FF,92FE9D&vCenter=true&size=22">
 </p>
 
 <h2 align="center">Hey 👋, I'm <a href="https://github.com/AyatKhaled2004">Ayat Khaled</a></h2>
@@ -21,8 +21,8 @@ AI & Machine Learning Enthusiast 👩‍💻
 </p>
 
 <p align="center">
-Computer Science student passionate about <strong>AI, Machine Learning, Deep Learning, and Computer Vision</strong>.
-I enjoy building intelligent systems and solving real-world problems using data and Python.
+Computer Science student passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.  
+I enjoy building intelligent systems and solving real-world problems using Python and AI.
 </p>
 
 <p align="center">
@@ -45,10 +45,10 @@ I enjoy building intelligent systems and solving real-world problems using data 
 
 <ul>
 <li>🎓 Computer Science Student - Zagazig University</li>
-<li>🤖 AI, ML, DL, Computer Vision background</li>
+<li>🤖 AI, ML, DL, Computer Vision</li>
 <li>💻 C++, Python, JavaScript</li>
-<li>📊 Data Analysis + Model Building</li>
-<li>🧠 Passion for solving real-world problems</li>
+<li>📊 Data Analysis & Model Building</li>
+<li>🧠 Problem-solving mindset</li>
 </ul>
 
 ---
