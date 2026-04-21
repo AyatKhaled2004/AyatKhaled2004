@@ -80,8 +80,14 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 <h2>📊 Projects</h2>
 
 <ul>
-<li>🧠 <strong>Machine Learning Prediction Model</strong><br>
+<li>🧠 <strong>Machine Learning Prediction Models</strong><br>
 Built ML models using data preprocessing, feature engineering, and classification techniques.</li>
+
+<li>🍷 <strong>Wine Quality Prediction</strong><br>
+Developed a machine learning model to predict wine quality based on physicochemical features using classification algorithms.</li>
+
+<li>📉 <strong>Customer Churn Prediction</strong><br>
+Built a predictive model to identify customers likely to leave using data analysis and machine learning techniques.</li>
 
 <li>📈 <strong>Data Analysis Project</strong><br>
 Cleaned and analyzed datasets to extract insights using Python libraries.</li>
