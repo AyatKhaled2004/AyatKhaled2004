@@ -1,3 +1,15 @@
+<!-- BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Ayat%20Khaled&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- TYPING INTRO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Computer+Vision+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
 <h2 align="center">Hey 👋, I'm <a href="https://github.com/AyatKhaled2004">Ayat Khaled</a></h2>
 
 <p align="center">
@@ -5,16 +17,16 @@ AI & Machine Learning Enthusiast 👩‍💻
 </p>
 
 <p align="center">
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.  
-I enjoy building intelligent systems, analyzing data, and solving real-world problems using Python and AI techniques.
+Computer Science student passionate about <strong>AI, Machine Learning, Deep Learning, and Computer Vision</strong>.
+I enjoy building intelligent systems and solving real-world problems using data and Python.
 </p>
 
 <p align="center">
-🎯 Actively seeking internship opportunities in AI / Machine Learning / Software Development
+🎯 Actively seeking internship opportunities in AI / ML / DL / Computer Vision
 </p>
 
 <p align="center">
@@ -33,11 +45,10 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 
 <ul>
 <li>🎓 Computer Science Student - Zagazig University</li>
-<li>🤖 Studied Machine Learning, Deep Learning, and Computer Vision</li>
-<li>💻 Programming in C++, Python, JavaScript</li>
-<li>📊 Experience in Data Analysis, Data Preprocessing, and Model Evaluation</li>
-<li>🧠 Interested in AI applications in real-world problems</li>
-<li>🚀 Strong passion for problem solving and continuous learning</li>
+<li>🤖 AI, ML, DL, Computer Vision background</li>
+<li>💻 C++, Python, JavaScript</li>
+<li>📊 Data Analysis + Model Building</li>
+<li>🧠 Passion for solving real-world problems</li>
 </ul>
 
 ---
@@ -45,34 +56,16 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 <h2>🚀 Technical Skills</h2>
 
 <p align="left">
-
-<!-- Programming -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-
-<!-- AI / ML -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/>
 <img src="https://keras.io/img/logo.png" width="40"/>
 
-<!-- Data Science -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-
-<!-- Web -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-
-<!-- Tools -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-
 </p>
 
 ---
@@ -80,28 +73,19 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 <h2>📊 Projects</h2>
 
 <ul>
-<li>🧠 <strong>Machine Learning Prediction Models</strong><br>
-Built ML models using data preprocessing, feature engineering, and classification techniques.</li>
-
-<li>🍷 <strong>Wine Quality Prediction</strong><br>
-Developed a machine learning model to predict wine quality based on physicochemical features using classification algorithms.</li>
-
-<li>📉 <strong>Customer Churn Prediction</strong><br>
-Built a predictive model to identify customers likely to leave using data analysis and machine learning techniques.</li>
-
-<li>📈 <strong>Data Analysis Project</strong><br>
-Cleaned and analyzed datasets to extract insights using Python libraries.</li>
-
-<li>🔬 <strong>Computer Vision Project</strong><br>
-Worked on image processing and basic computer vision tasks using Python.</li>
+<li>🍷 Wine Quality Prediction using ML classification models</li>
+<li>📉 Customer Churn Prediction using data analysis & ML</li>
+<li>🧠 Machine Learning prediction models with preprocessing & feature engineering</li>
+<li>📈 Data Analysis projects using Python libraries</li>
+<li>🔬 Computer Vision tasks using image processing techniques</li>
 </ul>
 
 ---
 
-<h2>🎯 Career Objective</h2>
+<h2>🏆 GitHub Achievements</h2>
 
-<p>
-To secure a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong> where I can apply my skills, gain hands-on experience, and contribute to impactful real-world projects.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AyatKhaled2004&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -114,3 +98,12 @@ To secure a challenging internship in <strong>Artificial Intelligence</strong> o
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatKhaled2004&theme=radical" />
+</p>
+
+---
+
+<h2>📊 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyatKhaled2004&theme=react-dark" />
+</p>
