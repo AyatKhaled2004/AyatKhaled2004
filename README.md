@@ -1,37 +1,46 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ayat-khaled-48206a324">Ayat Khaled</a></h2>
+<h2 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/ayat-khaled-48206a324">Ayat Khaled</a></h2>
 
-<p>
+<p align="center">
+AI & Machine Learning Enthusiast 👩‍💻
+</p>
+
+<p align="center">
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
 I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.  
 I enjoy building intelligent systems, analyzing data, and solving real-world problems using Python and AI techniques.
 </p>
 
-<p>
-🎯 Currently seeking internships in <strong>AI / Machine Learning / Software Development</strong>.
+<p align="center">
+🎯 Actively seeking internship opportunities in AI / Machine Learning / Software Development
 </p>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/ayat-khaled-48206a324">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
+---
 
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-<li>🎓 Computer Science Student - Faculty of Computers & Information, Zagazig University</li>
+<li>🎓 Computer Science Student - Zagazig University</li>
 <li>🤖 Studied Machine Learning, Deep Learning, and Computer Vision</li>
-<li>💻 Programming in C++, Python, and JavaScript</li>
+<li>💻 Programming in C++, Python, JavaScript</li>
 <li>📊 Experience in Data Analysis, Data Preprocessing, and Model Evaluation</li>
-<li>🧠 Interested in building AI systems for real-world applications</li>
+<li>🧠 Interested in AI applications in real-world problems</li>
 <li>🚀 Strong passion for problem solving and continuous learning</li>
-<li>💡 Always exploring new technologies in AI & Data Science</li>
 </ul>
+
+---
 
 <h2>🚀 Technical Skills</h2>
 
@@ -44,24 +53,30 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 <li><strong>Tools:</strong> Git, GitHub, Postman</li>
 </ul>
 
+---
+
 <h2>📊 Projects</h2>
 
 <ul>
-<li>🧠 <strong>Machine Learning Prediction Model</strong>  
-Built ML models using data preprocessing, feature engineering, and classification algorithms.</li>
+<li>🧠 <strong>Machine Learning Prediction Model</strong><br>
+Built ML models using data preprocessing, feature engineering, and classification techniques.</li>
 
-<li>📈 <strong>Data Analysis Project</strong>  
-Analyzed datasets, cleaned data, and extracted insights using Python libraries.</li>
+<li>📈 <strong>Data Analysis Project</strong><br>
+Cleaned and analyzed datasets to extract meaningful insights using Python libraries.</li>
 
-<li>🔬 <strong>Computer Vision Task</strong>  
-Worked on image processing and basic CV models using Python.</li>
+<li>🔬 <strong>Computer Vision Project</strong><br>
+Worked on image processing and basic computer vision tasks using Python.</li>
 </ul>
+
+---
 
 <h2>🎯 Career Objective</h2>
 
 <p>
-To obtain a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong> where I can apply my skills, gain hands-on experience, and contribute to impactful real-world projects.
+To secure a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong> where I can apply my skills, gain hands-on experience, and contribute to impactful real-world projects.
 </p>
+
+---
 
 <h2>🚀 Tools & Technologies</h2>
 
@@ -76,12 +91,14 @@ To obtain a challenging internship in <strong>Artificial Intelligence</strong> o
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>
 </p>
 
+---
+
 <h2>📈 GitHub Stats</h2>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayat-khaled-48206a324&show_icons=true&theme=default"/>
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayat-khaled-48206a324"/>
 </p>
