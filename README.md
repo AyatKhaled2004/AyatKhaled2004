@@ -1,20 +1,20 @@
 <h2 align="center">Hey 👋, I'm Ayat Khaled</h2>
 
 <p align="center">
-AI & Front-End Developer 👩‍💻
+AI & Machine Learning Enthusiast 👩‍💻
 </p>
 
 <p align="center">
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>.  
-I focus on building intelligent systems using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, along with modern <strong>Front-End development</strong>.
+I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.  
+I enjoy building intelligent systems and solving real-world problems using data and algorithms.
 </p>
 
 <p align="center">
-🎯 Seeking internships in AI / Machine Learning / Software Engineering
+🎯 Actively seeking internship opportunities in AI / Machine Learning / Software Development
 </p>
 
 ---
@@ -24,24 +24,32 @@ I focus on building intelligent systems using <strong>Machine Learning</strong>,
 <ul>
 <li>🎓 Computer Science Student - Zagazig University</li>
 <li>🤖 Studied Machine Learning, Deep Learning, Computer Vision</li>
-<li>💻 C++, Python, JavaScript</li>
-<li>🌐 Front-End Developer (React.js)</li>
-<li>📊 Data Analysis & Model Evaluation</li>
-<li>🚀 Continuously improving problem-solving skills</li>
+<li>💻 Programming in C++, Python, JavaScript</li>
+<li>📊 Experience in Data Analysis, Data Preprocessing, Model Evaluation</li>
+<li>🧠 Interested in applying AI in real-world domains (especially healthcare)</li>
+<li>🚀 Strong focus on problem solving and continuous learning</li>
 </ul>
+
+---
 
 <h2>🚀 Technical Skills</h2>
 
 <ul>
-<li><strong>Languages:</strong> C++, Python, JavaScript</li>
-<li><strong>Front-End:</strong> HTML, CSS, React</li>
-<li><strong>AI:</strong> ML, DL, CV</li>
+<li><strong>Programming:</strong> C++, Python, JavaScript</li>
+<li><strong>AI & ML:</strong> Machine Learning, Deep Learning, Computer Vision</li>
 <li><strong>Libraries:</strong> NumPy, Pandas, Scikit-learn, TensorFlow</li>
-<li><strong>Tools:</strong> Git, Postman</li>
+<li><strong>Concepts:</strong> Data Structures, Algorithms, OOP</li>
+<li><strong>Tools:</strong> Git, GitHub, Postman</li>
 </ul>
+
+---
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
 </p>
