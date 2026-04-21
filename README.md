@@ -113,5 +113,4 @@ To secure a challenging internship in <strong>Artificial Intelligence</strong> o
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatKhaled2004"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatKhaled2004&theme=radical" />
