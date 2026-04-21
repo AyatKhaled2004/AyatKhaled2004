@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/ayat-khaled-48206a324">Ayat Khaled</a></h2>
+<h2 align="center">Hey 👋, I'm <a href="https://github.com/AyatKhaled2004">Ayat Khaled</a></h2>
 
 <p align="center">
 AI & Machine Learning Enthusiast 👩‍💻
@@ -22,7 +22,7 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/AyatKhaled2004">
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -55,50 +55,12 @@ I enjoy building intelligent systems, analyzing data, and solving real-world pro
 
 ---
 
-<h2>📊 Projects</h2>
-
-<ul>
-<li>🧠 <strong>Machine Learning Prediction Model</strong><br>
-Built ML models using data preprocessing, feature engineering, and classification techniques.</li>
-
-<li>📈 <strong>Data Analysis Project</strong><br>
-Cleaned and analyzed datasets to extract meaningful insights using Python libraries.</li>
-
-<li>🔬 <strong>Computer Vision Project</strong><br>
-Worked on image processing and basic computer vision tasks using Python.</li>
-</ul>
-
----
-
-<h2>🎯 Career Objective</h2>
-
-<p>
-To secure a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong> where I can apply my skills, gain hands-on experience, and contribute to impactful real-world projects.
-</p>
-
----
-
-<h2>🚀 Tools & Technologies</h2>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="25"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>
-</p>
-
----
-
-<h2>📈 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayat-khaled-48206a324&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AyatKhaled2004&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayat-khaled-48206a324"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatKhaled2004"/>
 </p>
