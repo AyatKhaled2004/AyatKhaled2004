@@ -1,66 +1,87 @@
-<h2>Hey 👋, I'm Ayat Khaled</h2>
-<p>I'm an <strong>AI Engineer</strong> specializing in building predictive systems and intelligent architectures. My expertise spans <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>, with a strong foundation in <strong>NLP</strong>.</p>
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/ayat-khaled-48206a324">Ayat Khaled</a></h2>
 
 <p>
-  <a href="mailto:ayatkhaled32721@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/ayat-khaled-48206a324"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge"></a>
+I'm a Computer Science student passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.  
+I enjoy building intelligent systems, analyzing data, and solving real-world problems using Python and AI techniques.
 </p>
 
-<blockquote>
-  "Excellence is built in the details no one sees."
-</blockquote>
+<p>
+🎯 Currently seeking internships in <strong>AI / Machine Learning / Software Development</strong>.
+</p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0eXNidW5mZ3ZwaG9mZzRreHBudm81dm9wdXZ6Z3ZwaG9mZzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="200" />
+<p>
+<a href="https://www.linkedin.com/in/ayat-khaled-48206a324">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
 
-<h2>⚡️ Quick Facts</h2>
+<a href="#">
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
+
+<h2>⚡️ A Few Quick Facts</h2>
+
 <ul>
-  <li>🔭 <strong>Current Focus:</strong> Developing automated land analysis and early warning systems using Geospatial AI.</li>
-  <li>🧐 <strong>Expertise:</strong> Predictive Modeling, Semantic Segmentation, and End-to-End AI Integration.</li>
-  <li>📚 <strong>Learning:</strong> Deepening my knowledge in <strong>Natural Language Processing (NLP)</strong>.</li>
-  <li>💬 <strong>Talk to me about:</strong> Machine Learning pipelines, Python, C++, and React integration.</li>
+<li>🎓 Computer Science Student - Faculty of Computers & Information, Zagazig University</li>
+<li>🤖 Studied Machine Learning, Deep Learning, and Computer Vision</li>
+<li>💻 Programming in C++, Python, and JavaScript</li>
+<li>📊 Experience in Data Analysis, Data Preprocessing, and Model Evaluation</li>
+<li>🧠 Interested in building AI systems for real-world applications</li>
+<li>🚀 Strong passion for problem solving and continuous learning</li>
+<li>💡 Always exploring new technologies in AI & Data Science</li>
 </ul>
 
-<h2>🚀 Technical Arsenal</h2>
+<h2>🚀 Technical Skills</h2>
 
-### 🤖 Artificial Intelligence
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat&logo=python&logoColor=white" alt="ML" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="DL" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="CV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+<ul>
+<li><strong>Programming:</strong> C++, Python, JavaScript</li>
+<li><strong>AI & ML:</strong> Machine Learning, Deep Learning, Computer Vision</li>
+<li><strong>Libraries:</strong> NumPy, Pandas, Scikit-learn, TensorFlow</li>
+<li><strong>Web Basics:</strong> HTML, CSS</li>
+<li><strong>Concepts:</strong> Data Structures, Algorithms, OOP</li>
+<li><strong>Tools:</strong> Git, GitHub, Postman</li>
+</ul>
+
+<h2>📊 Projects</h2>
+
+<ul>
+<li>🧠 <strong>Machine Learning Prediction Model</strong>  
+Built ML models using data preprocessing, feature engineering, and classification algorithms.</li>
+
+<li>📈 <strong>Data Analysis Project</strong>  
+Analyzed datasets, cleaned data, and extracted insights using Python libraries.</li>
+
+<li>🔬 <strong>Computer Vision Task</strong>  
+Worked on image processing and basic CV models using Python.</li>
+</ul>
+
+<h2>🎯 Career Objective</h2>
+
+<p>
+To obtain a challenging internship in <strong>Artificial Intelligence</strong> or <strong>Software Development</strong> where I can apply my skills, gain hands-on experience, and contribute to impactful real-world projects.
 </p>
 
-### 🛠️ Programming & Tools
+<h2>🚀 Tools & Technologies</h2>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="25"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>
 </p>
 
----
+<h2>📈 GitHub Stats</h2>
 
-<h2>🛠️ Featured Projects</h2>
-
-### 📊 Predictive Analytics & ML
-* **Customer Churn Prediction:** Analyzing user behavior to predict and mitigate customer turnover.
-* **Wine Quality Assessment:** Classification model using chemical properties to determine quality.
-* **Car Price Forecasting:** Advanced regression models for automotive market value estimation.
-* **Real Estate Price Prediction:** Intelligent system for house price forecasting.
-* **Sleep Disorder Prediction:** Diagnostic ML model for health pattern recognition.
-
-### 🛰️ Geospatial & Vision
-* **Satellite Change Detection:** Automated land analysis pipeline using Sentinel-2 and U-Net.
-* **NDVI Analysis:** Vegetation health monitoring using Remote Sensing data.
-
-<br/>
-
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayat-Khaled&show_icons=true&theme=tokyonight" alt="Ayat's GitHub Stats" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayat-Khaled&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
 </p>
